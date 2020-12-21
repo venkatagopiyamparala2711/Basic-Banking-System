@@ -65,7 +65,7 @@ if(isset($_POST['submit']))
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sai's Basic banking system</title>
+    <title>Venkat's normal banking system</title>
     <!-- <link rel="stylesheet" href="./style.css"> -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -111,7 +111,7 @@ if(isset($_POST['submit']))
   <a class="navbar-brand" >
   <img src="logo.png" alt="logo" style="width:150px; height:150px">
   </a>
-  <p class="logo-text">Sai's Banking system</p>
+  <p class="logo-text">Venkat's Normal Banking system</p>
 
   <ul class="navbar-nav">
   <li class="list-customer">
